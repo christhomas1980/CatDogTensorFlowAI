@@ -1,0 +1,4 @@
+flask
+tensorflow
+gunicorn
+azure.storage.blob
